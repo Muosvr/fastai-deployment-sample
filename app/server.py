@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1-5kcmaNJ7ESfEHwrtWj5rN9HU6COIyyG'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1YQk29gnafB6Rhco_u5nTlXUp-ZLJJVPN'
 export_file_name = 'fnf52.pkl'
 
 classes = ['food', 'non_food']
